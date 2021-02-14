@@ -1,0 +1,44 @@
+2021-02-44 20:49:07.080  INFO waratah.local
+			--- [nio-8080-exec-1] c.l.f.s.InstrumentService                : Getting all Instruments.
+2021-02-44 20:50:29.758  INFO waratah.local
+			--- [nio-8080-exec-4] c.l.f.s.InstrumentService                : Creating new Instrument.
+2021-02-44 20:50:58.523  INFO waratah.local
+			--- [nio-8080-exec-5] c.l.f.s.InstrumentService                : Creating new Instrument.
+2021-02-44 21:12:30.763  INFO waratah.local
+			--- [nio-8080-exec-1] c.l.f.s.InstrumentService                : Getting all Instruments.
+2021-02-44 21:12:40.374  INFO waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Creating new Instrument.
+2021-02-44 21:13:15.956  INFO waratah.local
+			--- [nio-8080-exec-6] c.l.f.s.InstrumentService                : Creating new Instrument.
+2021-02-44 21:14:59.636  INFO waratah.local
+			--- [nio-8080-exec-8] c.l.f.s.InstrumentService                : Getting all Instruments.
+2021-02-44 21:15:12.586  INFO waratah.local
+			--- [nio-8080-exec-9] c.l.f.s.InstrumentService                : Creating new Instrument.
+2021-02-44 21:22:52.063  INFO waratah.local
+			--- [nio-8080-exec-1] c.l.f.s.InstrumentService                : Getting all Instruments.
+2021-02-44 21:22:56.906  INFO waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Creating new Instrument.
+2021-02-44 21:30:21.422  INFO waratah.local
+			--- [nio-8080-exec-1] c.l.f.s.InstrumentService                : Finding all Instruments.
+2021-02-44 21:30:36.058  INFO waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Creating a new Instrument.
+2021-02-44 21:30:36.099 ERROR waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Exception occurred while trying to create instrument
+2021-02-44 21:35:49.761  INFO waratah.local
+			--- [nio-8080-exec-1] c.l.f.s.InstrumentService                : Finding all Instruments.
+2021-02-44 21:35:54.620  INFO waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Creating a new Instrument.
+2021-02-44 21:35:54.656 ERROR waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Exception occurred while trying to create instrument
+2021-02-44 21:44:58.398  INFO waratah.local
+			--- [nio-8080-exec-2] c.l.f.s.InstrumentService                : Finding all Instruments.
+2021-02-44 21:45:02.912  INFO waratah.local
+			--- [nio-8080-exec-3] c.l.f.s.InstrumentService                : Creating a new Instrument.
+2021-02-44 21:45:14.198  INFO waratah.local
+			--- [nio-8080-exec-4] c.l.f.s.InstrumentService                : Creating a new Instrument.
+2021-02-44 21:45:23.083  INFO waratah.local
+			--- [nio-8080-exec-5] c.l.f.s.InstrumentService                : Creating a new Instrument.
+2021-02-44 21:45:26.270  INFO waratah.local
+			--- [nio-8080-exec-6] c.l.f.s.InstrumentService                : Creating a new Instrument.
+2021-02-44 21:45:32.149  INFO waratah.local
+			--- [nio-8080-exec-7] c.l.f.s.InstrumentService                : Finding all Instruments.
